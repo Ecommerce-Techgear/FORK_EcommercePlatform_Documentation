@@ -1,5 +1,4 @@
 # Project General Information
-Group Name: Beatrix Project Title: Ecommerse Platform
 
 Group Name: GROUP NAME
 Project Title: ECOMMERCE PLATFORM
