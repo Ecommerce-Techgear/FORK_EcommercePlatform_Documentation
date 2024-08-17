@@ -2,7 +2,7 @@
 Group Name: Beatrix Project Title: Ecommerse Platform
 
 Group Name: GROUP NAME
-Project Title: SYSTEM NAME
+Project Title: ECOMMERCE PLATFORM
 
 ## A. Problem Statement:
 
